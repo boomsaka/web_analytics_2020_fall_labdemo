@@ -1,9 +1,24 @@
 {
     
-        "Students":[
-            {"id":1,"name":"Pete","age": 3},
-            {"id":2,"name":"Andy","age": 2},
-            {"id":3,"name":"Helen","age": 4}
+        "Children":[
+            {
+                "id":1,
+                "name":"Pete",
+                "age": 3,
+                "parents": "human"
+            },
+            {
+                "id":2,
+                "name":"Andy",
+                "age": 2,
+                "parents": "martian"
+            },
+            {
+                "id":3,
+                "name":"Helen",
+                "age": 4,
+                "parents": "subterrnean"
+            }
         ]
     
 }
